@@ -10,7 +10,7 @@
 
 	Use it in Play (Test > Play) with the Device Emulator for the real picture,
 	or in Edit mode to check your StarterGui.
-	Free to use. https://github.com/Cjdiv462/mobile-ui-checker
+	Free to use. https://github.com/myflxr/mobile-ui-checker
 ]]
 
 local CoreGui = game:GetService("CoreGui")
